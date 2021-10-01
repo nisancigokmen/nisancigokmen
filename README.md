@@ -24,7 +24,7 @@
  
  
  
- I am communicating via   <a href="htttps://www.gmail.com"> e-mail .  <br>
+ I am communicating via   <a href="https://www.gmail.com"> e-mail .  <br>
  
  
  
