@@ -1,16 +1,13 @@
-### Hi there 👋
+### HELLO WORLD ! 👋
 
-<!--
-**luminous1Code/luminous1Code** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+🔭  I'm currently working on web developer.
+🌱  I'm learning to live right now :D
+👯  I'm looking to collaborate on project.
+💬  Ask me about web design and code 
+📫  You can reach me by mail.
+🎸  I like playing the guitar
+🏍️  I love atv safari
+🧑‍💻  I love to write code, it feels like I'm in another universe.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+![Github stats 2](https://github-readme-stats.vercel.app/api?username=kullanıcıadınız&show_icons=true&theme=radical)
