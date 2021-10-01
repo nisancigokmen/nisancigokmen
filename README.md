@@ -1,7 +1,6 @@
 ### HELLO WORLD ! 👋 
 
 ![software](https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif)  <br>
-<br>
  
 💻I'm currently working on web developer. <br>
 🌱  I'm learning to live right now :D  <br>
@@ -10,10 +9,28 @@
 📫  You can reach me by mail. <br>
 🎸  I like playing the guitar <br>
 🧑‍💻  I love to write code, it feels like I'm in another universe.
+
 <hr>
+<h3> WHO AM I ? <h3>
+<img src="https://scontent.fist7-2.fna.fbcdn.net/v/t39.30808-6/241332258_871706913766064_4132464765865439984_n.jpg?_nc_cat=102&ccb=1-5&_nc_sid=09cbfe&_nc_ohc=9aTFAne8KqQAX9WeB2o&_nc_ht=scontent.fist7-2.fna&oh=9468a0bc6bdbd5e38cf516e2f7c15a92&oe=615B8B07" width="210px" >
+ <i>
+   <br>
+ I am a web developer. <br>
+ Professional in the front-end field. <br>
+ I work on projects as a freelance. <br>
+ I studied programming for 2 years and 4 years engineering. <br>
+ I make a website for individuals and institutions.  <br>
+ I am communicating via   <a href="https://mail.google.com"> e-mail  <br>
+ 
+ 
+ 
+ </i>
+
+
+<hr>
+
 <h2> I also know: </h2>
 <b> <i> HTML / CSS / BOOTSTRAP </i> </b>  <br> 
-
 <b> <i> JAVASCRİPT  </i> </b>  <br>
 <b> <i> PYTHON   </i> </b> <br><br>
 
@@ -22,20 +39,15 @@
 <img src="https://media0.giphy.com/media/fsEaZldNC8A1PJ3mwp/giphy.gif?cid=ecf05e47y1ug986lo0gf70z5tzqmh1bcboikozwb09rtth3f&rid=giphy.gif&ct=s" width="160px">
  <img src="https://media4.giphy.com/media/ln7z2eWriiQAllfVcn/giphy_s.gif?cid=ecf05e47zbtgsdddzewgci0vvirxpot5jigeqx7e1th68hjc&rid=giphy_s.gif&ct=s" width="160px">
  <img src="https://media1.giphy.com/media/Sr8xDpMwVKOHUWDVRD/giphy_s.gif?cid=ecf05e47jx3o9ym7zlfe885jhdyvzypfat53nhwzrwm07g4n&rid=giphy_s.gif&ct=s" width="160px">
- <img src="https://media4.giphy.com/media/LMt9638dO8dftAjtco/giphy.gif?cid=ecf05e47wusiwr7gykgmeftlryxjk948yi6d4k9vg1m64zc7&rid=giphy.gif&ct=s" width="160px">
-  
-      
+ <img src="https://cdn.pixabay.com/photo/2017/08/22/11/56/linked-in-2668696_1280.png" width="160px">
  </div>
  
  <hr>
-
 <div>
  
- <a href= "https://github.com/luminous1Code">  <img src="https://media2.giphy.com/media/CwTvSiWflgCGKgz5eb/giphy.gif?cid=ecf05e47xf1g3jfwzonx602mec3y3q5jkqng8b7teshd8ulg&rid=giphy.gif&ct=s" width="120px"></a> <br>
- 
-  <a href= "https://stackoverflow.com/users/16140842/g%c3%b6kmen-ni%c5%9fanc%c4%b1">  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/Stack_Overflow_icon.svg/1024px-Stack_Overflow_icon.svg.png" width="120px"></a> <br>
- 
-<a href="https://cdn.pixabay.com/photo/2017/08/22/11/56/linked-in-2668696_1280.png"> <img src="https://gp.by/upload/iblock/0cf/0cf5c549fe3e40308ef4f5762250bddc.jpg" width="120px" ></a> <br>
+ <a href= "https://github.com/luminous1Code">  <img src="https://media2.giphy.com/media/CwTvSiWflgCGKgz5eb/giphy.gif?cid=ecf05e47xf1g3jfwzonx602mec3y3q5jkqng8b7teshd8ulg&rid=giphy.gif&ct=s" width="120px">
+  <a href= "https://stackoverflow.com/users/16140842/g%c3%b6kmen-ni%c5%9fanc%c4%b1">  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/Stack_Overflow_icon.svg/1024px-Stack_Overflow_icon.svg.png" width="120px">
+  <a href= "https://www.linkedin.com/in/g%C3%B6kmen-ni%C5%9Fanc%C4%B1-4144b721b/">  <img src="https://i.ya-webdesign.com/images/linkedin-logo-png-for-gmail-3.png" width="140px">
  
  </div>
 
