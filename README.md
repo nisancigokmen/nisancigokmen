@@ -6,7 +6,7 @@
 🌱  I'm learning to live right now :D  <br>
 👯  I'm looking to collaborate on project. <br>
 💬  Ask me about web design and code <br>
-📫  You can reach me by mail. <br>
+📫  You can reach me by mail.(nisancigokmen@gmail.com) <br>
 🎸  I like playing the guitar <br>
 🧑‍💻  I love to write code, it feels like I'm in another universe.
 
@@ -23,7 +23,7 @@
  
  
  
- I am communicating via   <a href="https://www.gmail.com" target = "_blank" > e-mail .  <br>
+ I am communicating via   <a href="https://www.gmail.com"  > e-mail .  <br>
  
  
  
