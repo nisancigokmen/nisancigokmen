@@ -48,7 +48,8 @@
  <a href= "https://github.com/luminous1Code">  <img src="https://media2.giphy.com/media/CwTvSiWflgCGKgz5eb/giphy.gif?cid=ecf05e47xf1g3jfwzonx602mec3y3q5jkqng8b7teshd8ulg&rid=giphy.gif&ct=s" width="120px">
   <a href= "https://stackoverflow.com/users/16140842/g%c3%b6kmen-ni%c5%9fanc%c4%b1">  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/Stack_Overflow_icon.svg/1024px-Stack_Overflow_icon.svg.png" width="120px">
   <a href= "https://www.linkedin.com/in/g%C3%B6kmen-ni%C5%9Fanc%C4%B1-4144b721b/">  <img src="https://i.ya-webdesign.com/images/linkedin-logo-png-for-gmail-3.png" width="140px">
- 
+ <a href= "nisancigokmen@gmail.com">  <img src="https://1.bp.blogspot.com/-2fAWMiAssO0/Xz09B3BBbLI/AAAAAAAAAOs/aQAIIAIHN4E8cr1WhHGK757ni5mbn8eRwCLcBGAsYHQ/s2048/logo+gmail+hitam+yogiancreative.png" width="120px">
+
  </div>
 
  
