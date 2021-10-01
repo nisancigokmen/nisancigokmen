@@ -31,12 +31,12 @@
 
 <div>
  
- <a href= "https://github.com/luminous1Code">  <img src="https://media2.giphy.com/media/CwTvSiWflgCGKgz5eb/giphy.gif?cid=ecf05e47xf1g3jfwzonx602mec3y3q5jkqng8b7teshd8ulg&rid=giphy.gif&ct=s" width="120px"></a>
+ <a href= "https://github.com/luminous1Code">  <img src="https://media2.giphy.com/media/CwTvSiWflgCGKgz5eb/giphy.gif?cid=ecf05e47xf1g3jfwzonx602mec3y3q5jkqng8b7teshd8ulg&rid=giphy.gif&ct=s" width="120px"></a> <br>
  
-  <a href= "https://stackoverflow.com/users/16140842/g%c3%b6kmen-ni%c5%9fanc%c4%b1">  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/Stack_Overflow_icon.svg/1024px-Stack_Overflow_icon.svg.png" width="120px"></a>
+  <a href= "https://stackoverflow.com/users/16140842/g%c3%b6kmen-ni%c5%9fanc%c4%b1">  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/Stack_Overflow_icon.svg/1024px-Stack_Overflow_icon.svg.png" width="120px"></a> <br>
  
-<a href="https://www.linkedin.com/in/g%C3%B6kmen-ni%C5%9Fanc%C4%B1-4144b721b/"> <img src="https://gp.by/upload/iblock/0cf/0cf5c549fe3e40308ef4f5762250bddc.jpg" width="120px" ></a>
-
+<a href="https://cdn.pixabay.com/photo/2017/08/22/11/56/linked-in-2668696_1280.png"> <img src="https://gp.by/upload/iblock/0cf/0cf5c549fe3e40308ef4f5762250bddc.jpg" width="120px" ></a> <br>
+ 
  </div>
 
  
