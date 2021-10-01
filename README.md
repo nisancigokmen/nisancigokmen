@@ -23,7 +23,7 @@
  
  
  
- I am communicating via   <a href="https://www.gmail.com" targer= "_blank" > e-mail .  <br>
+ I am communicating via   <a href="https://www.gmail.com" target = "_blank" > e-mail .  <br>
  
  
  
