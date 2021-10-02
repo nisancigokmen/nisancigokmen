@@ -16,10 +16,10 @@
 <img src="https://scontent.fist7-2.fna.fbcdn.net/v/t39.30808-6/241332258_871706913766064_4132464765865439984_n.jpg?_nc_cat=102&ccb=1-5&_nc_sid=09cbfe&_nc_ohc=9aTFAne8KqQAX9WeB2o&_nc_ht=scontent.fist7-2.fna&oh=9468a0bc6bdbd5e38cf516e2f7c15a92&oe=615B8B07" width="210px" >
    <br><br>
  I am a person like everyone else. <br>
- I studied <strong> programming </strong> for 2 years and 4 years strongi> engineering </strong>.   <br>
- I am a web developer, Professional in the <strong> front-end field. </strong> <br>
- I work on projects as a <strong>  freelance.  </strong>  <br>
- I  <strong> make a website </strong> for individuals and institutions.    <br>
+ I studied  programming for 2 years and 4 years engineering .   <br>
+ I am a web developer, professional in the front-end field.  <br>
+ I work on projects as a   freelance.  <br>
+ I  make a website for individuals and institutions.    <br>
  
  
  
