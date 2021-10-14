@@ -13,7 +13,7 @@
 <hr>
 
 <h3> WHO AM I ? <h3>
-<img src="https://scontent.fist7-2.fna.fbcdn.net/v/t39.30808-6/241332258_871706913766064_4132464765865439984_n.jpg?_nc_cat=102&ccb=1-5&_nc_sid=09cbfe&_nc_ohc=9aTFAne8KqQAX9WeB2o&_nc_ht=scontent.fist7-2.fna&oh=9468a0bc6bdbd5e38cf516e2f7c15a92&oe=615B8B07" width="210px" >
+<img src="https://user-images.githubusercontent.com/91744618/137263348-9340bde8-85ec-4b5d-b83e-1d5b4265fa44.jpg" width="240px">
    <br><br>
  I am a person like everyone else. <br>
  I studied  programming for 2 years and 4 years engineering .   <br>
