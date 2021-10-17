@@ -33,7 +33,7 @@
 
 <hr>
 
-<h2> I also know: </h2>
+<h2> I ALSO KNOW: </h2>
 <b> <i> HTML / CSS / BOOTSTRAP </i> </b>  <br> 
 <b> <i> JAVASCRİPT  </i> </b>  <br>
 <b> <i> PYTHON   </i> </b> <br><br>
