@@ -23,7 +23,7 @@
  
  
  
- I am communicating via   <a href="https://www.gmail.com"  > e-mail .  <br>
+ I am communicating via   <a href="https://www.gmail.com"  > MAİL  <br>
  
  
  
