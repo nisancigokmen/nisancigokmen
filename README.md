@@ -49,7 +49,7 @@
  
  <hr>
 <div>
- <h2> CONTACT </h2>
+ <h2> CONTACT... </h2>
  <a href= "https://github.com/luminous1Code">  <img src="https://i1.wp.com/cdn-images-1.medium.com/max/1600/1*zm5NLjdhGd3VVTA2u-xEPg.gif" width="160px">
   <a href= "https://stackoverflow.com/users/16140842/g%c3%b6kmen-ni%c5%9fanc%c4%b1">  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/Stack_Overflow_icon.svg/1024px-Stack_Overflow_icon.svg.png" width="160px">
   <a href= "https://www.linkedin.com/in/g%C3%B6kmen-ni%C5%9Fanc%C4%B1/">  <img src="https://i.ya-webdesign.com/images/linkedin-logo-png-for-gmail-3.png" width="160px">
