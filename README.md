@@ -11,10 +11,9 @@
 🧑‍💻  I love to write code, it feels like I'm in another universe.
 
 <hr>
-
-
 <h3> WHO AM I ? <h3>
-<img src="https://user-images.githubusercontent.com/91744618/137263348-9340bde8-85ec-4b5d-b83e-1d5b4265fa44.jpg" width="240px">
+ 
+![Gökmen's github stats](https://github-readme-stats.vercel.app/api?username=nisancigokmen&show_icons=true&theme=radical)
    <br><br>
  I am a person like everyone else. <br>
  I studied  programming for 2 years and 4 years engineering .   <br>
@@ -25,12 +24,17 @@
  
 <hr>
 
+ 
 <h2> I ALSO KNOW: </h2>
+ 
+ [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nisancigokmen&layout=compact)](https://github.com/nisancigokmen/github-readme-stats)
+ 
 <b> <i> HTML / CSS / BOOTSTRAP </i> </b>  <br> 
 <b> <i> JAVASCRİPT  </i> </b>  <br>
 <b> <i> PYTHON   </i> </b> <br><br>
 
  <div>
+  
  <img src="https://media0.giphy.com/media/XAxylRMCdpbEWUAvr8/giphy.gif?cid=790b76110ef46d4b303f11a59ea380d042ec4b1a04aa3c15&rid=giphy.gif&ct=s" width="120px">&nbsp;
 <img src="https://media0.giphy.com/media/fsEaZldNC8A1PJ3mwp/giphy.gif?cid=ecf05e47y1ug986lo0gf70z5tzqmh1bcboikozwb09rtth3f&rid=giphy.gif&ct=s" width="120px">&nbsp;
  <img src="https://media4.giphy.com/media/ln7z2eWriiQAllfVcn/giphy_s.gif?cid=ecf05e47zbtgsdddzewgci0vvirxpot5jigeqx7e1th68hjc&rid=giphy_s.gif&ct=s" width="120px">&nbsp;
