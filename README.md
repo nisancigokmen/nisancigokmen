@@ -49,8 +49,8 @@
  <h2> CONTACT </h2>
  
  <a href= "https://github.com/nisancigokmen">  <img src="https://media4.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif?cid=ecf05e47emodt0xkt2s6ok7apnznhuwpehf9123xbrp61vyu&rid=giphy.gif&ct=g" width="132px">&nbsp;
-  <a href= "https://stackoverflow.com/users/16140842/g%c3%b6kmen-ni%c5%9fanc%c4%b1">  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/Stack_Overflow_icon.svg/1024px-Stack_Overflow_icon.svg.png" width="142px">&nbsp;
-  <a href= "linkedin.com/in/nisancigokmen">  <img src="https://berserkon.com/images/linkedin-svg-black-and-white.png" width="142px">&nbsp;
+  <a href= "https://stackoverflow.com/users/16140842/g%c3%b6kmen-ni%c5%9fanc%c4%b1">  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/Stack_Overflow_icon.svg/1024px-Stack_Overflow_icon.svg.png" width="132px">&nbsp;
+  <a href= "https://www.linkedin.com/in/nisancigokmen/">  <img src="https://berserkon.com/images/linkedin-svg-black-and-white.png" width="132px">&nbsp;
    
  </div>
 
