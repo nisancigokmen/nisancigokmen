@@ -38,8 +38,9 @@
  <img src="https://media0.giphy.com/media/XAxylRMCdpbEWUAvr8/giphy.gif?cid=790b76110ef46d4b303f11a59ea380d042ec4b1a04aa3c15&rid=giphy.gif&ct=s" width="120px">&nbsp;
 <img src="https://media0.giphy.com/media/fsEaZldNC8A1PJ3mwp/giphy.gif?cid=ecf05e47y1ug986lo0gf70z5tzqmh1bcboikozwb09rtth3f&rid=giphy.gif&ct=s" width="120px">&nbsp;
  <img src="https://media4.giphy.com/media/ln7z2eWriiQAllfVcn/giphy_s.gif?cid=ecf05e47zbtgsdddzewgci0vvirxpot5jigeqx7e1th68hjc&rid=giphy_s.gif&ct=s" width="120px">&nbsp;
- <img src="https://media1.giphy.com/media/Sr8xDpMwVKOHUWDVRD/giphy_s.gif?cid=ecf05e47jx3o9ym7zlfe885jhdyvzypfat53nhwzrwm07g4n&rid=giphy_s.gif&ct=s" width="120px">&nbsp;
- <img src="https://media4.giphy.com/media/LMt9638dO8dftAjtco/giphy.gif?cid=ecf05e47n4be0o2873vg4fabqvhy4848eob7e0au1y0ghwnk&rid=giphy.gif&ct=s" width="120px">&nbsp;
+   <img src="https://media4.giphy.com/media/LMt9638dO8dftAjtco/giphy.gif?cid=ecf05e47n4be0o2873vg4fabqvhy4848eob7e0au1y0ghwnk&rid=giphy.gif&ct=s" width="120px">&nbsp;
+ <img src="http://mirror.ihc.ru/php.ihc-ru.net/images/ele-running.gif" width="170px">&nbsp;
+ <img src="https://media4.giphy.com/media/vISmwpBJUNYzukTnVx/giphy.gif?cid=ecf05e47txza5n3fm1mwqf83ltsg9t9e8ki205uvyxq9j06m&rid=giphy.gif&ct=g" width="170px" height="100px" >&nbsp;
 
  </div>
  
