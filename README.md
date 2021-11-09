@@ -40,7 +40,7 @@
  <img src="https://media4.giphy.com/media/ln7z2eWriiQAllfVcn/giphy_s.gif?cid=ecf05e47zbtgsdddzewgci0vvirxpot5jigeqx7e1th68hjc&rid=giphy_s.gif&ct=s" width="120px">&nbsp;
    <img src="https://media4.giphy.com/media/LMt9638dO8dftAjtco/giphy.gif?cid=ecf05e47n4be0o2873vg4fabqvhy4848eob7e0au1y0ghwnk&rid=giphy.gif&ct=s" width="120px">&nbsp;
  <img src="http://mirror.ihc.ru/php.ihc-ru.net/images/ele-running.gif" width="170px">&nbsp;
- <img src="https://media4.giphy.com/media/vISmwpBJUNYzukTnVx/giphy.gif?cid=ecf05e47txza5n3fm1mwqf83ltsg9t9e8ki205uvyxq9j06m&rid=giphy.gif&ct=g" width="170px"  >&nbsp;
+
 
  </div>
  
@@ -48,9 +48,10 @@
 <div>
  <h2> CONTACT </h2>
  
- <a href= "https://github.com/nisancigokmen">  <img src="https://i1.wp.com/cdn-images-1.medium.com/max/1600/1*zm5NLjdhGd3VVTA2u-xEPg.gif" width="132px">&nbsp;
-  <a href= "https://stackoverflow.com/users/16140842/g%c3%b6kmen-ni%c5%9fanc%c4%b1">  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/Stack_Overflow_icon.svg/1024px-Stack_Overflow_icon.svg.png" width="132px">&nbsp;
-
+ <a href= "https://github.com/nisancigokmen">  <img src="https://media4.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif?cid=ecf05e47emodt0xkt2s6ok7apnznhuwpehf9123xbrp61vyu&rid=giphy.gif&ct=g" width="132px">&nbsp;
+  <a href= "https://stackoverflow.com/users/16140842/g%c3%b6kmen-ni%c5%9fanc%c4%b1">  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/Stack_Overflow_icon.svg/1024px-Stack_Overflow_icon.svg.png" width="142px">&nbsp;
+  <a href= "linkedin.com/in/nisancigokmen">  <img src="https://berserkon.com/images/linkedin-svg-black-and-white.png" width="142px">&nbsp;
+   
  </div>
 
  
