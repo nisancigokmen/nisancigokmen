@@ -32,6 +32,8 @@
 <b> <i> HTML / CSS </i> </b>  <br> 
 <b> <i> JAVASCRİPT  </i> </b>  <br>
 <b> <i> PYTHON   </i> </b> <br><br>
+ <b> <i> PHP   </i> </b> <br><br>
+ 
 
  <div>
   
