@@ -29,7 +29,7 @@
  
  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nisancigokmen&layout=compact)](https://github.com/nisancigokmen/github-readme-stats)
  
-<b> <i> HTML / CSS / BOOTSTRAP </i> </b>  <br> 
+<b> <i> HTML / CSS </i> </b>  <br> 
 <b> <i> JAVASCRİPT  </i> </b>  <br>
 <b> <i> PYTHON   </i> </b> <br><br>
 
