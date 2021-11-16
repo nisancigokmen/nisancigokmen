@@ -34,7 +34,6 @@
 <b> <i> PYTHON  </i> </b> <br>
  <b> <i> PHP  </i> </b> <br><br>
  
-
  <div>
   
  <img src="https://media0.giphy.com/media/XAxylRMCdpbEWUAvr8/giphy.gif?cid=790b76110ef46d4b303f11a59ea380d042ec4b1a04aa3c15&rid=giphy.gif&ct=s" width="120px">&nbsp;
