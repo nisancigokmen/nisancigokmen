@@ -12,8 +12,8 @@
     <p> <h3> I am involved in open source software projects. I help when I can. You can contact us by e-mail </h3>   </p> <br>
     
 
-<h2> I ALSO KNOW: </h2> 
- 
+<h2> I ALSO KNOW: </h2>  <br>
+
  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nisancigokmen&layout=compact)](https://github.com/nisancigokmen/github-readme-stats)
  
   <br>
