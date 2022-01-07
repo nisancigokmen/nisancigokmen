@@ -20,7 +20,7 @@
  
   <br><br>
  
-   <div>
+   <div id="language">
     
  <img src="https://media0.giphy.com/media/XAxylRMCdpbEWUAvr8/giphy.gif?cid=790b76110ef46d4b303f11a59ea380d042ec4b1a04aa3c15&rid=giphy.gif&ct=s" width="120px">&nbsp;
 <img src="https://media0.giphy.com/media/fsEaZldNC8A1PJ3mwp/giphy.gif?cid=ecf05e47y1ug986lo0gf70z5tzqmh1bcboikozwb09rtth3f&rid=giphy.gif&ct=s" width="120px">&nbsp;
@@ -34,7 +34,7 @@
  </div>
  
  <hr>
-<div>
+<div id="contact">
  <h2> CONTACT </h2>
  
    <a href= "https://github.com/nisancigokmen">  <img src="https://media4.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif?cid=ecf05e47emodt0xkt2s6ok7apnznhuwpehf9123xbrp61vyu&rid=giphy.gif&ct=g" width="72px">&nbsp;
