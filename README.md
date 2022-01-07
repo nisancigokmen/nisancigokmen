@@ -7,11 +7,9 @@
  
 ![Gökmen's github stats](https://github-readme-stats.vercel.app/api?username=nisancigokmen&show_icons=true&theme=radical)
  
- 
- I am a web developer, professional in the front-end field.  <br>
- I work on projects as a   freelance.  <br>
- I  make a website for individuals and institutions.    <br>
- I am communicating via   <a href="https://www.gmail.com"  > MAİL.  <br>
+   <p> <h3>  I am a web developer. </h3>   </p>
+    <p> <h3> I work on projects as a freelance.  </h3>   </p>
+    <p> <h3> I am involved in open source software projects. I help when I can. You can contact us by e-mail </h3>   </p>
  
 <hr>
 
