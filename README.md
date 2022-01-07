@@ -16,7 +16,7 @@
  
 <h2> I ALSO KNOW: </h2> <br> <br>
  
- &nbsp;   &nbsp;   &nbsp; &nbsp;   &nbsp;      &nbsp;   &nbsp;   &nbsp;   &nbsp;    &nbsp;    &nbsp;    &nbsp;   &nbsp;   &nbsp;    &nbsp;   &nbsp;  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nisancigokmen&layout=compact)](https://github.com/nisancigokmen/github-readme-stats)
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nisancigokmen&layout=compact)](https://github.com/nisancigokmen/github-readme-stats)
  
   <br><br>
  
