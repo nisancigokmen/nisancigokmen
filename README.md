@@ -3,23 +3,20 @@
 ![software](https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif)  <br>
  
  
-<br>
  <h3> WHO AM I ? <h3> 
  
 ![Gökmen's github stats](https://github-readme-stats.vercel.app/api?username=nisancigokmen&show_icons=true&theme=radical)
  
    <p> <h3>  I am a web developer. </h3>   </p>
     <p> <h3> I work on projects as a freelance.  </h3>   </p>
-    <p> <h3> I am involved in open source software projects. I help when I can. You can contact us by e-mail </h3>   </p>
+    <p> <h3> I am involved in open source software projects. I help when I can. You can contact us by e-mail </h3>   </p> <br>
     
-  <br>
+
 <h2> I ALSO KNOW: </h2> 
  
  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nisancigokmen&layout=compact)](https://github.com/nisancigokmen/github-readme-stats)
  
-  <br><br>
- 
- 
+  <br>
    <div id="language">
     
  <img src="https://media0.giphy.com/media/XAxylRMCdpbEWUAvr8/giphy.gif?cid=790b76110ef46d4b303f11a59ea380d042ec4b1a04aa3c15&rid=giphy.gif&ct=s" width="120px">&nbsp;
