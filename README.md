@@ -1,9 +1,8 @@
 ### HELLO WORLD ! &nbsp; <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="32px"><br>
 
 ![software](https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif)  <br>
- 
- <hr>
- 
+
+
  <h3> WHO AM I ? <h3> 
  
 ![Gökmen's github stats](https://github-readme-stats.vercel.app/api?username=nisancigokmen&show_icons=true&theme=radical)
@@ -45,4 +44,3 @@
    
  </div> <br>
 
- <hr>
