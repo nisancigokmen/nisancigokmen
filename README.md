@@ -30,7 +30,6 @@
  <img src="http://mirror.ihc.ru/php.ihc-ru.net/images/ele-running.gif" width="150px">
   
 <br>
- 
 
  </div>
  
@@ -43,4 +42,3 @@
  &nbsp; &nbsp; &nbsp;  <a href= "https://www.linkedin.com/in/nisancigokmen/">  <img src="https://berserkon.com/images/linkedin-svg-black-and-white.png" width="72px">&nbsp;
    
  </div> <br>
-
