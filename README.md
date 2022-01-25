@@ -8,7 +8,7 @@
  
 ![Gökmen's github stats](https://github-readme-stats.vercel.app/api?username=nisancigokmen&show_icons=true&theme=radical)
 
- [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%232F6EEA&size=22&lines=My+name+is+G%C3%B6kmen;Co-founder+at+NISANCI-SOFTWARE;Web+Developer)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%23FFFFFF&size=22&lines=My+name+is+G%C3%B6kmen;Co-founder+at+NISANCI-SOFTWARE;Web+Developer)](https://git.io/typing-svg)
  
 <h2> I ALSO KNOW: </h2>  <br>
 
@@ -42,7 +42,7 @@
    
  </div> <br>
  
- [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%232F6EEA&size=22&lines=Thanks+for+visiting)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%23FFFFFF&size=22&lines=Thanks+for+visiting)](https://git.io/typing-svg)
  
  
  
