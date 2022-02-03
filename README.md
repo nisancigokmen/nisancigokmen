@@ -38,7 +38,8 @@
  
   &nbsp; <a href= "https://github.com/nisancigokmen">  <img src="https://pandacode.ru/wp-content/uploads/2021/08/Github.png" width="72px"> </a> &nbsp;
  &nbsp; &nbsp; <a href= "https://stackoverflow.com/users/16140842/g%c3%b6kmen-ni%c5%9fanc%c4%b1">  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/Stack_Overflow_icon.svg/1024px-Stack_Overflow_icon.svg.png" width="72px"> </a> &nbsp;
- &nbsp; &nbsp; <a href= "https://www.linkedin.com/in/nisancigokmen/">  <img src="https://berserkon.com/images/linkedin-svg-black-and-white.png" width="72px">  </a> &nbsp; &nbsp; &nbsp; <a href="mailto:nisancigokmen@gmail.com"> <img src="https://www.freepngimg.com/thumb/youtube/77700-icons-youtube-computer-logo-email-icon.png" width="72px"> </a>
+ &nbsp; &nbsp; <a href= "https://www.linkedin.com/in/nisancigokmen/">  <img src="https://berserkon.com/images/linkedin-svg-black-and-white.png" width="72px">  </a> &nbsp;
+ &nbsp;  <a href= "https://medium.com/@nisancigokmen">  <img src="https://static.wixstatic.com/media/540524_03ad1450dea24e52b57fc352c09d3c65~mv2_d_1600_1200_s_2.png" width="100px"> </a> &nbsp; &nbsp;  <a href="mailto:nisancigokmen@gmail.com"> <img src="https://www.freepngimg.com/thumb/youtube/77700-icons-youtube-computer-logo-email-icon.png" width="72px"> </a> 
    
  </div> <br>
  
