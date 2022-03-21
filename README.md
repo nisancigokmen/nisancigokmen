@@ -5,7 +5,6 @@
  <h3> WHO AM I ? <h3> 
  
  
- 
 ![Gökmen's github stats](https://github-readme-stats.vercel.app/api?username=nisancigokmen&show_icons=true&theme=radical)
  
 
@@ -32,6 +31,7 @@
   
 <br>
 
+    
  </div>
  
 <div id="contact">
