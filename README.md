@@ -30,7 +30,6 @@
  <img src="http://mirror.ihc.ru/php.ihc-ru.net/images/ele-running.gif" width="140px">
   
 <br>
-
     
  </div>
  
