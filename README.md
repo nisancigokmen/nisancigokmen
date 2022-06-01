@@ -1,4 +1,4 @@
-### HELLO WORLD ! &nbsp; <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="32px"><br>
+### HELLO WORLD ! &nbsp; <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="32px" height="42px"><br>
 
 
 ![software](https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif)  <br>
@@ -19,15 +19,15 @@
  
    <div id="language">
     
- <img src="https://media0.giphy.com/media/XAxylRMCdpbEWUAvr8/giphy.gif?cid=790b76110ef46d4b303f11a59ea380d042ec4b1a04aa3c15&rid=giphy.gif&ct=s" width="82px">
+ <img src="https://media0.giphy.com/media/XAxylRMCdpbEWUAvr8/giphy.gif?cid=790b76110ef46d4b303f11a59ea380d042ec4b1a04aa3c15&rid=giphy.gif&ct=s" width="82px" height="120px">
  
-<img src="https://media0.giphy.com/media/fsEaZldNC8A1PJ3mwp/giphy.gif?cid=ecf05e47y1ug986lo0gf70z5tzqmh1bcboikozwb09rtth3f&rid=giphy.gif&ct=s" width="82px">
+<img src="https://media0.giphy.com/media/fsEaZldNC8A1PJ3mwp/giphy.gif?cid=ecf05e47y1ug986lo0gf70z5tzqmh1bcboikozwb09rtth3f&rid=giphy.gif&ct=s" width="82px" height="120px">
  
- <img src="https://media4.giphy.com/media/ln7z2eWriiQAllfVcn/giphy_s.gif?cid=ecf05e47zbtgsdddzewgci0vvirxpot5jigeqx7e1th68hjc&rid=giphy_s.gif&ct=s" width="82px">
+ <img src="https://media4.giphy.com/media/ln7z2eWriiQAllfVcn/giphy_s.gif?cid=ecf05e47zbtgsdddzewgci0vvirxpot5jigeqx7e1th68hjc&rid=giphy_s.gif&ct=s" width="82px" height="120px">
  
-   <img src="https://media4.giphy.com/media/LMt9638dO8dftAjtco/giphy.gif?cid=ecf05e47n4be0o2873vg4fabqvhy4848eob7e0au1y0ghwnk&rid=giphy.gif&ct=s" width="76px">
+   <img src="https://media4.giphy.com/media/LMt9638dO8dftAjtco/giphy.gif?cid=ecf05e47n4be0o2873vg4fabqvhy4848eob7e0au1y0ghwnk&rid=giphy.gif&ct=s" width="76px" height="120px">
  
- <img src="http://mirror.ihc.ru/php.ihc-ru.net/images/ele-running.gif" width="140px">
+ <img src="http://mirror.ihc.ru/php.ihc-ru.net/images/ele-running.gif" width="140px" height="120px">
   
 <br>
     
