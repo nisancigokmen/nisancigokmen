@@ -37,10 +37,11 @@
  
  <h2> CONTACT </h2> <br>
  
-  &nbsp; <a href= "https://github.com/nisancigokmen">  <img src="https://pandacode.ru/wp-content/uploads/2021/08/Github.png" width="72px"> </a> &nbsp;
- &nbsp; &nbsp; <a href= "https://stackoverflow.com/users/16140842/g%c3%b6kmen-ni%c5%9fanc%c4%b1">  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/Stack_Overflow_icon.svg/1024px-Stack_Overflow_icon.svg.png" width="72px"> </a> &nbsp;
- &nbsp; &nbsp; <a href= "https://www.linkedin.com/in/nisancigokmen/">  <img src="https://berserkon.com/images/linkedin-svg-black-and-white.png" width="72px">  </a> &nbsp;
- &nbsp;  <a href= "https://medium.com/@nisancigokmen">  <img src="https://static.wixstatic.com/media/540524_03ad1450dea24e52b57fc352c09d3c65~mv2_d_1600_1200_s_2.png" width="100px"> </a>    &nbsp; &nbsp;  <a href="https://www.buymeacoffee.com/nisancigokmen"> <img src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fs3-eu-west-1.amazonaws.com%2Ftpd%2Flogos%2F5c58570cfdd26f0001068f06%2F0x0.png&f=1&nofb=1" width="72px"> </a>   &nbsp; &nbsp;  <a href="mailto:nisancigokmen@gmail.com"> <img src="https://www.freepngimg.com/thumb/youtube/77700-icons-youtube-computer-logo-email-icon.png" width="72px"> </a> 
+  &nbsp; &nbsp;  <a href="mailto:gokmen.nisanci@nisancisoftware.com"> <img src="https://techcommunity.microsoft.com/t5/image/serverpage/image-id/172206i70472167E79B9D0F/image-size/large?v=v2&px=999" width="72px" height="72px"> </a> 
+
+
+
+
  
  </div> <br>
  
