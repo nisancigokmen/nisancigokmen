@@ -11,6 +11,10 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2318f9ee&size=22&lines=Hello!+My+name+is+G%C3%B6kmen;Ceo+at+Nisanci+Software;)](https://git.io/typing-svg)
  
+<a href="https://visitcount.itsvg.in/api?id=nisancigokmen&label=Profile%20Views&color=12&icon=5&pretty=false)%5D(https://visitcount.itsvg.in"><a href="https://visitcount.itsvg.in">
+  <img src="https://visitcount.itsvg.in/api?id=nisancigokmen&label=Profile%20Views&color=0&icon=5&pretty=false" />
+</a></a>
+
 <h2> I ALSO KNOW: </h2>  <br>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nisancigokmen&layout=compact)](https://github.com/nisancigokmen/github-readme-stats)
