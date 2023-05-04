@@ -1,57 +1,38 @@
 ### HELLO WORLD ! &nbsp; <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="32px" height="42px"><br>
 
-
-
 ![software](https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif)  <br>
 
- <h3> WHO AM I ? <h3> 
- 
-![Gökmen's github stats](https://github-readme-stats.vercel.app/api?username=nisancigokmen&show_icons=true&theme=radical)
- 
+<br>
+
+## ✨ Who Am I
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2318f9ee&size=22&lines=Hello!+My+name+is+G%C3%B6kmen;Ceo+at+Nisanci+Software;)](https://git.io/typing-svg)
  
-<a href="https://visitcount.itsvg.in/api?id=nisancigokmen&label=Profile%20Views&color=12&icon=5&pretty=false)%5D(https://visitcount.itsvg.in"><a href="https://visitcount.itsvg.in">
-  <img src="https://visitcount.itsvg.in/api?id=nisancigokmen&label=Profile%20Views&color=0&icon=5&pretty=false" />
-</a></a>
-
-<h2> I ALSO KNOW: </h2>  <br>
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nisancigokmen&layout=compact)](https://github.com/nisancigokmen/github-readme-stats)
- 
-
-  <br>
- 
-   <div id="language">
-    
- <img src="https://media0.giphy.com/media/XAxylRMCdpbEWUAvr8/giphy.gif?cid=790b76110ef46d4b303f11a59ea380d042ec4b1a04aa3c15&rid=giphy.gif&ct=s" width="82px" height="100px">
- 
-<img src="https://media0.giphy.com/media/fsEaZldNC8A1PJ3mwp/giphy.gif?cid=ecf05e47y1ug986lo0gf70z5tzqmh1bcboikozwb09rtth3f&rid=giphy.gif&ct=s" width="82px" height="100px">
- 
- <img src="https://media4.giphy.com/media/ln7z2eWriiQAllfVcn/giphy_s.gif?cid=ecf05e47zbtgsdddzewgci0vvirxpot5jigeqx7e1th68hjc&rid=giphy_s.gif&ct=s" width="82px" height="100px">
- 
-   <img src="https://media4.giphy.com/media/LMt9638dO8dftAjtco/giphy.gif?cid=ecf05e47n4be0o2873vg4fabqvhy4848eob7e0au1y0ghwnk&rid=giphy.gif&ct=s" width="76px" height="100px">
- 
- <img src="http://mirror.ihc.ru/php.ihc-ru.net/images/ele-running.gif" width="140px" height="100px">
-  
 <br>
-    
- </div>
- 
-<div id="contact">
- 
- <h2> CONTACT </h2> <br>
- 
-  &nbsp; &nbsp;  <a href="mailto:gokmen.nisanci@nisancisoftware.com"> <img src="https://techcommunity.microsoft.com/t5/image/serverpage/image-id/172206i70472167E79B9D0F/image-size/large?v=v2&px=999" width="72px" height="72px"> </a> 
 
+## 🌐 Socials
+[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/https://www.facebook.com/gokmennisancii/) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/https://www.instagram.com/gokmen_nisanci/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/nisancigokmen) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@https://medium.com/@nisancigokmen) [![Pinterest](https://img.shields.io/badge/Pinterest-%23E60023.svg?logo=Pinterest&logoColor=white)](https://pinterest.com/https://tr.pinterest.com/nisancigokmen/) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/https://stackoverflow.com/users/16140842/nisancigokmen) [![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?logo=TikTok&logoColor=white)](https://tiktok.com/@tiktok.com/@nisancisoftware) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/https://twitter.com/@nisancigokmen) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@https://www.youtube.com/@nisancisoftware) 
+<br>
+# 💻 Tech Stack
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) ![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white) ![LINUX](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) 	![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Adobe After Effects](https://img.shields.io/badge/Adobe%20After%20Effects-9999FF.svg?style=for-the-badge&logo=Adobe%20After%20Effects&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white) ![Type-graphql](https://img.shields.io/badge/-TypeGraphQL-%23C04392?style=for-the-badge) ![Webpack](https://img.shields.io/badge/webpack-%238DD6F9.svg?style=for-the-badge&logo=webpack&logoColor=black) ![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
+# 📊 GitHub Stats
+![](https://github-readme-stats.vercel.app/api?username=nisancigokmen&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=nisancigokmen&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=nisancigokmen&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+<br>
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=nisancigokmen&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+<br>
+---
+[![](https://visitcount.itsvg.in/api?id=nisancigokmen&icon=0&color=0)](https://visitcount.itsvg.in)
+<br>
+  ## 💰 You can help me by Donating
+  [![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/https://www.buymeacoffee.com/nisancigokmen) 
 
+  
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+ 
 
-
- 
- </div> <br>
- 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2318f9ee&size=22&lines=Thanks+for+visiting)](https://git.io/typing-svg)
- 
 
  
  
