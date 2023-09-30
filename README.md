@@ -6,7 +6,7 @@
 
 ## ✨ Who Am I
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2318f9ee&size=22&lines=Hello!+My+name+is+G%C3%B6kmen;Ceo+at+Nisanci+Software;)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2318f9ee&size=22&lines=Hello!+My+name+is+G%C3%B6kmen;Focuses+on+JavaScript;)](https://git.io/typing-svg)
  
 <br>
 
