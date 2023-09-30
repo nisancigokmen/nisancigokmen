@@ -1,4 +1,4 @@
-### HELLO WORLD ! &nbsp; <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="32px" height="42px"><br>
+
 
 ![software](https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif)  <br>
 
